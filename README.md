@@ -1,4 +1,4 @@
-# ReactJS-Small-Apps
+# React-Pizza-App-Typescript
 
 ![Banner Image](./banner.png "Banner Image")
 

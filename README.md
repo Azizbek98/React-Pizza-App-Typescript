@@ -2,9 +2,9 @@
 
 ![Banner Image](./banner.png "Banner Image")
 
-<h2 align="center">Basic ReactJS Projects</h2>
+<h2 align="center">React Pizza App Typescript</h2>
 
-<p align="center">This repository contains basic reactjs applications for learning purpose</p>
+<p align="center">This repository contains basic react pet-project made with typescript.</p>
 
 <hr />
 

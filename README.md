@@ -19,7 +19,6 @@ git clone https://github.com/Azizbek98/React-Pizza-App-Typescript.git
 ##### Install and run:
 
 ```bash
-cd [project_name]
 npm install
 npm run start
 ```
